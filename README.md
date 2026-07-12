@@ -10,8 +10,7 @@ Simple type for OS paths!
 
 ## Examples
 
-```
-csharp
+```csharp
 OsPath logsDir = new("Logs");
 OsPath logFile = logsDir / new OsPath("log1.txt");
 Console.WriteLine(logFile.Absolute());
