@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/examples/">
+    <Project Path="OsPathConsoleExample/OsPathConsoleExample.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="OsPath/OsPath.csproj" />
+  </Folder>
+</Solution>
